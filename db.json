@@ -1,19 +1,24 @@
 {
   "data": {
     "labels": ["January", "February", "March", "April", "May", "June", "July"],
-    "datasets": [{
+    "datasets": [
+      {
         "label": "Attendance",
         "data": [100, 45, 60, 80, 67, 70, 80],
         "backgroundColor": "orange",
         "borderColor": "black",
         "borderWidth": 1
-    },
-    {
+      },
+      {
         "label": "Performance",
         "data": [80, 50, 60, 80, 75, 80, 90],
         "backgroundColor": "red",
         "borderColor": "black",
         "borderWidth": 1
-    }]
-}
+      }
+    ]
+  },
+  "labels":[],
+  "attendance":[],
+  "performance":[]
 }
