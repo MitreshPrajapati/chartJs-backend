@@ -20,5 +20,6 @@
   },
   "labels":[],
   "attendance":[],
-  "performance":[]
+  "performance":[],
+  "chartData":[]
 }
