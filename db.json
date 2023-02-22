@@ -18,8 +18,12 @@
       }
     ]
   },
-  "labels":[],
-  "attendance":[],
-  "performance":[],
-  "chartData":[]
+  "chartData": [
+    {
+      "id": 1,
+      "month": "January",
+      "attendance": "",
+      "performance": ""
+    }
+  ]
 }
