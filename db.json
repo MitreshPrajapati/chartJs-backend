@@ -22,8 +22,8 @@
     {
       "id": 1,
       "month": "January",
-      "attendance": "",
-      "performance": ""
+      "attendance": "45",
+      "performance": "60"
     }
   ]
 }
